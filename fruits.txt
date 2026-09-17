@@ -2,4 +2,3 @@ apple
 banana
 orange
 kiwi
-strawbery
