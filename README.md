@@ -25,8 +25,6 @@
 
 ![ScreenShot 12](images/ScreenShot12.png)
 
-![ScreenShot 13](images/ScreenShot13.png)
-
 ![ScreenShot 14](images/ScreenShot14.png)
 
 ![ScreenShot 15](images/ScreenShot15.png)
