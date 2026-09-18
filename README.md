@@ -1,11 +1,23 @@
 ## Description of our project
 
-## Screenshots
+
+## Steps
+
+# 1.Git Installation
+The installation of Git and the verification of the installed Git version.
+
+# 2.Git Configuration
+Configures the Git username and email address used to identify commits.
 ![ScreenShot 1](images/ScreenShot1.png)
 
+# 3.Git Repository Initialization
+How to create a project directory and initialize it as a Git repository.
 ![ScreenShot 2](images/ScreenShot2.png)
 
+# 4.Git Branches
+Create and work with different branches such as master, vegetables and sauces.
 ![ScreenShot 3](images/ScreenShot3.png)
+
 
 ![ScreenShot 4](images/ScreenShot4.png)
 
