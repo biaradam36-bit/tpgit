@@ -2,3 +2,4 @@
 broccoli
 tomato
 karrot
+lettuce
