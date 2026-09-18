@@ -1,5 +1,7 @@
 ## Description of our project
+This lab introduces the fundamentals of Git and collaborative version control. The individual part covers initializing a repository, making commits, creating and managing branches, and pushing changes to a repository. The collaborative part focuses on pulling and merging changes, working with branches, and resolving merge conflicts that may occur when multiple people modify the same project.
 
+For our project, we have brainstormed many interesting ideas but are yet to decide what direction to follow.
 
 ## Procedures
 
@@ -15,17 +17,17 @@
 # 3.Git Repository Initialization
 **How to create a project directory and initialize it as a Git repository.**
 
-###Adam
+### Adam
 
 ![ScreenShot 2](images/ScreenShot2.png)
-###Taha
+### Taha
 
 <img width="445" height="316" alt="image" src="https://github.com/user-attachments/assets/d89976bf-8fcc-411f-84aa-2d77ca73dce8" />
 
 # 4.Git Branches
 **Create and work with different branches such as master, vegetables and sauces.**
 
-###Adam
+### Adam
 
 ![ScreenShot 3](images/ScreenShot3.png)
 
@@ -37,7 +39,7 @@
 
 ![ScreenShot 7](images/ScreenShot7.png)
 
-###Taha
+### Taha
 
 <img width="379" height="494" alt="image" src="https://github.com/user-attachments/assets/b3f48251-6139-41d8-9524-00c4646331f2" />
 <img width="401" height="504" alt="image" src="https://github.com/user-attachments/assets/9be5df3b-d341-42f0-80e6-d5f56223244b" />
