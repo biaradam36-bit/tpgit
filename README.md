@@ -48,12 +48,12 @@ For our project, we have brainstormed many interesting ideas but are yet to deci
 
 # 5.Git Merges
 **How changes from different branches can be merged into the master branch.**
-
+### Adam
 ![ScreenShot 8](images/ScreenShot8.png)
 
 # 6.Remote Repository
 **How to create a GitHub repository and connect the local project to it.**
-
+### Adam
 ![ScreenShot 9](images/ScreenShot9.png)
 
 # 7.Collaborative Work
