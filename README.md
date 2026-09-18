@@ -36,10 +36,11 @@ How to create a GitHub repository and connect the local project to it.
 
 # 7.Collaborative Work
 How team members can work on the same GitHub project and collaborate through remote repositories.
-![ScreenShot 10](images/ScreenShot10.png)
+![ScreenShot 15](images/ScreenShot15.png)
 
 # 8.Merge without conflict
 Two contributors can make changes and merge their work without creating conflicts.
+![ScreenShot 10](images/ScreenShot10.png)
 ![ScreenShot 11](images/ScreenShot11.png)
 
 ![ScreenShot 12](images/ScreenShot12.png)
