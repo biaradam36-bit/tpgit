@@ -15,15 +15,18 @@
 # 3.Git Repository Initialization
 **How to create a project directory and initialize it as a Git repository.**
 
-Adam
+###Adam
+
 ![ScreenShot 2](images/ScreenShot2.png)
-Taha
+###Taha
+
 <img width="445" height="316" alt="image" src="https://github.com/user-attachments/assets/d89976bf-8fcc-411f-84aa-2d77ca73dce8" />
 
 # 4.Git Branches
 **Create and work with different branches such as master, vegetables and sauces.**
 
-Adam
+###Adam
+
 ![ScreenShot 3](images/ScreenShot3.png)
 
 ![ScreenShot 4](images/ScreenShot4.png)
@@ -34,7 +37,8 @@ Adam
 
 ![ScreenShot 7](images/ScreenShot7.png)
 
-Taha
+###Taha
+
 <img width="379" height="494" alt="image" src="https://github.com/user-attachments/assets/b3f48251-6139-41d8-9524-00c4646331f2" />
 <img width="401" height="504" alt="image" src="https://github.com/user-attachments/assets/9be5df3b-d341-42f0-80e6-d5f56223244b" />
 <img width="399" height="273" alt="image" src="https://github.com/user-attachments/assets/fb509cbe-8b2d-4507-bd19-f5e68021f82b" />
