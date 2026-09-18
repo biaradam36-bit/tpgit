@@ -3,3 +3,7 @@ broccoli
 tomato
 karrot
 lettuce
+red broccoli
+blue broccoli
+pruple broccoli
+golden broccoli
