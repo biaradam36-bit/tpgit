@@ -1,4 +1,7 @@
-# 
+## Description of our project
+
+## Screenshots
+![ScreenShot 1](images/ScreenShot1.png)
 
 
 ## Authors
