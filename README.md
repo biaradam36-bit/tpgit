@@ -24,22 +24,28 @@ Create and work with different branches such as master, vegetables and sauces.
 
 ![ScreenShot 6](images/ScreenShot6.png)
 
-
 ![ScreenShot 7](images/ScreenShot7.png)
 
+# 5.Git Merges
+How changes from different branches can be merged into the master branch.
 ![ScreenShot 8](images/ScreenShot8.png)
 
+# 6.Remote Repository
+How to create a GitHub repository and connect the local project to it.
 ![ScreenShot 9](images/ScreenShot9.png)
 
+# 7.Collaborative Work
+How team members can work on the same GitHub project and collaborate through remote repositories.
 ![ScreenShot 10](images/ScreenShot10.png)
 
+# 8.Merge without conflict
+Two contributors can make changes and merge their work without creating conflicts.
 ![ScreenShot 11](images/ScreenShot11.png)
 
 ![ScreenShot 12](images/ScreenShot12.png)
 
 ![ScreenShot 14](images/ScreenShot14.png)
 
-![ScreenShot 15](images/ScreenShot15.png)
 
 ![ScreenShot 16](images/ScreenShot16.png)
 
