@@ -1,7 +1,7 @@
 ## Description of our project
 
 
-## Procedure
+## Procedures
 
 # 1.Git Installation
 **The installation of Git and the verification of the installed Git version.**
