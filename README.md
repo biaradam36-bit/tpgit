@@ -18,12 +18,12 @@ How to create a project directory and initialize it as a Git repository.
 Create and work with different branches such as master, vegetables and sauces.
 ![ScreenShot 3](images/ScreenShot3.png)
 
-
 ![ScreenShot 4](images/ScreenShot4.png)
 
 ![ScreenShot 5](images/ScreenShot5.png)
 
 ![ScreenShot 6](images/ScreenShot6.png)
+
 
 ![ScreenShot 7](images/ScreenShot7.png)
 
@@ -47,7 +47,6 @@ Create and work with different branches such as master, vegetables and sauces.
 
 ![ScreenShot 18](images/ScreenShot18.png)
 
-![ScreenShot 19](images/ScreenShot19.png)
 
 
 
