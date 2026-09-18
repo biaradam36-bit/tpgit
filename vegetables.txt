@@ -6,3 +6,4 @@ karrot
 red broccoli
 blue broccoli
 pruple broccoli
+golden broccoli
