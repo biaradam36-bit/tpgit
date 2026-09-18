@@ -11,7 +11,7 @@ For our project, we have brainstormed many interesting ideas but are yet to deci
 
 # 2.Git Configuration
 **Configures the Git username and email address used to identify commits.**
-
+### Adam 
 ![ScreenShot 1](images/ScreenShot1.png)
 
 # 3.Git Repository Initialization
