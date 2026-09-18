@@ -54,13 +54,13 @@
 # 9.Merge with conflict
 **Git detects conflicting changes and how the conflict can be resolved before completing the merge.**
 
-**First conflict:**
+**First conflict:**no error on first pair's end, but now there’s conflict on second pair’s end, the mistake is that first pair change fruits.txt and second pair changes also the same file before second pair's pull and push.
 
 ![ScreenShot 13](images/ScreenShot13.png)
 
 ![ScreenShot 14](images/ScreenShot14%20(2).png)
 
-**Second conflict:**
+**Second conflict:**no error on second pair's end, but now there’s conflict on first pair’s end, the mistake is that second pair change vegetables.txt and first pair changes also the same file before second pair's pull and push.
 
 ![ScreenShot 10](images/ScreenShot10.png)
 
