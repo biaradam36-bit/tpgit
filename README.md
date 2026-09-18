@@ -40,6 +40,9 @@ How team members can work on the same GitHub project and collaborate through rem
 
 # 8.Merge without conflict
 Two contributors can make changes and merge their work without creating conflicts.
+![ScreenShot 16](images/ScreenShot16.png)
+# 9.Merge with conflict
+Git detects conflicting changes and how the conflict can be resolved before completing the merge
 ![ScreenShot 10](images/ScreenShot10.png)
 ![ScreenShot 11](images/ScreenShot11.png)
 
@@ -47,8 +50,6 @@ Two contributors can make changes and merge their work without creating conflict
 
 ![ScreenShot 14](images/ScreenShot14.png)
 
-
-![ScreenShot 16](images/ScreenShot16.png)
 
 ![ScreenShot 17](images/ScreenShot17.png)
 
