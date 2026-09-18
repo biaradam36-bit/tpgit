@@ -58,7 +58,7 @@
 
 ![ScreenShot 13](images/ScreenShot13.png)
 
-![ScreenShot 14](images/ScreenShot14 (2).png)
+![ScreenShot 14](images/ScreenShot14(2).png)
 
 **Second conflict:**
 
